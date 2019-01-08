@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+/target/
+
+.nojekyll
+
+.project
+.classpath
+.settings/
+dist/
+.bak
+.zip
+.gzip
+.tar
+
+*.DS_Store
+*.iml
+*.ipr 
+*.iws
+ 
+*.log
+*.idea 
